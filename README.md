@@ -171,7 +171,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbasnayaka&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true&color=00FF88&line=00D4FF&point=FF6B35&area_color=7B2FBE" />
 </p>
-
 <!--
   ═══════════════════════════════════════════════════
   🐍 SNAKE ANIMATION — Fixed with direct SVG
