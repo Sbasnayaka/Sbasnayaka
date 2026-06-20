@@ -14,18 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: Platane/snk@v3.5.0
+      - name: Generate snake
+        uses: Platane/snk@v3.5.0
         with:
           github_user_name: Sbasnayaka
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the 'output' branch
-      - name: Push snake to output branch
-        uses: ad-m/github-push-action@v0.8.0
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          branch: output
-          force: true
-          directory: ./output
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: output
+          force_orphan: true   # this creates a clean branch with only the SVGs
+          commit_message: "🔄 Update snake animation"
