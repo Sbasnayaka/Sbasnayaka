@@ -178,7 +178,7 @@
   ═══════════════════════════════════════════════════
 -->
 <h2 align="center">
-  <span style="color:#FF6B35;">🐍</span> Contribution Snake
+  <span style="color:#FF6B35;">🐍</span> Contribution 
 </h2>
 
 <p align="center">
@@ -187,10 +187,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sbasnayaka/Sbasnayaka/main/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sbasnayaka/Sbasnayaka/main/output/github-contribution-grid-snake.svg" />
 </picture>
-</p>
-
-<p align="center" style="color: #888;">
-  <em>Note: To make the snake work, you need to set up a GitHub Action that generates the SVG file. If it doesn't show, you can manually generate it using the <a href="https://github.com/Platane/snk" style="color:#00D4FF;">snk tool</a>.</em>
 </p>
 
 <!--
