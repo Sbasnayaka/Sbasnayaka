@@ -5,20 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+
       - uses: Platane/snk@v3.5.0
         with:
           github_user_name: Sbasnayaka
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v5
+
+      # Push the generated files to the 'output' branch
+      - name: Push snake to output branch
+        uses: ad-m/github-push-action@v0.8.0
         with:
-          target_branch: main
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+          directory: ./output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
