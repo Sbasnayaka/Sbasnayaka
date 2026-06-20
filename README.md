@@ -120,7 +120,7 @@
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td width="50%" style="background: #0a0a0a; border: 1px solid #00FF88; border-radius: 16px; padding: 20px; box-shadow: 0 0 20px rgba(0,255,136,0.1);">
+    <td width="50%" style="background: #0a0a0a; border: 1px solid #00D4FF; border-radius: 16px; padding: 20px; box-shadow: 0 0 20px rgba(0,212,255,0.1);">
       <h3 align="center" style="color:#00FF88;">💼 Professional Experience</h3>
       <ul style="color: #e0e0e0; line-height: 1.8;">
         <li><strong style="color:#00D4FF;">Full Stack Web Developer Intern</strong><br>Asseminate Solution Pvt Ltd<br><em style="color:#FF6B35;">Nov 2025 – May 2026</em>
