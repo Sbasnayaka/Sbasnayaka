@@ -1,37 +1,39 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sanduni+Basnayaka;Full-Stack+Developer;Creative+Problem+Solver;Let's+Build+Something+Awesome!&color=FF6B6B" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sanduni+Basnayaka;Full-Stack+Developer;Creative+Problem+Solver;Let's+Build+Something+Awesome!&color=00FF88" />
 </h1>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!--
-  ═══════════════════════════════════════════════════
-  🧑‍💻 PROFILE BADGES — All your social & contact
-  ═══════════════════════════════════════════════════
--->
+<!-- NEON DIVIDER -->
 <p align="center">
-  <a href="mailto:sandunibasnayaka01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/s-basnayaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sbasnayaka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://skb-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="tel:+94740665317"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sbasnayaka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 <!--
   ═══════════════════════════════════════════════════
-  🌟 ABOUT ME — Personal Summary from CV
+  🧑‍💻 PROFILE BADGES — Neon Glow Style
   ═══════════════════════════════════════════════════
 -->
-<h2 align="center">✨ About Me ✨</h2>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+  <a href="mailto:sandunibasnayaka01@gmail.com"><img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://linkedin.com/in/s-basnayaka"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://github.com/Sbasnayaka"><img src="https://img.shields.io/badge/GitHub-7B2FBE?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://skb-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="tel:+94740665317"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sbasnayaka&label=Profile%20Views&color=00FF88&style=flat&labelColor=0a0a0a" alt="Profile views" />
 </p>
 
-```text
+<!--
+  ═══════════════════════════════════════════════════
+  🌟 ABOUT ME — Neon Vibe
+  ═══════════════════════════════════════════════════
+-->
+<h2 align="center">
+  <span style="color:#00FF88;">✦</span> About Me <span style="color:#00FF88;">✦</span>
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%">
+      <pre style="background: #0a0a0a; color: #00FF88; padding: 20px; border-radius: 12px; border: 1px solid #00FF88; box-shadow: 0 0 20px rgba(0,255,136,0.2);">
 🎓 BSc (Hons) Computer Science & Software Engineering @ SLIIT City University (UK)
 💼 Full-Stack Web Developer Intern @ Asseminate Solution Pvt Ltd (Nov 2025 – May 2026)
 🚀 12+ real-world projects delivered for businesses & personal growth
@@ -40,81 +42,89 @@
 ⚡ Fun fact: I lead university projects, play badminton & karate!
 📫 Reach me: sandunibasnayaka01@gmail.com
 🌐 Portfolio: https://skb-portfolio-ten.vercel.app/
-```
-
-<br clear="both" />
-
-<!--
-  ═══════════════════════════════════════════════════
-  🛠️ TECH STACK — From your CV skills
-  ═══════════════════════════════════════════════════
--->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">💻 Languages & Core</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
-
-<h3 align="center">🎨 Frontend & Design</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
-
-<h3 align="center">⚙️ Backend & Database</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<h3 align="center">☁️ Tools & Platforms</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</p>
-
-<h3 align="center">🧠 Soft Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Communication-45B7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time%20Management-F9CA24?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creativity-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptability-00B894?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leadership-FDCB6E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Critical%20Thinking-E17055?style=for-the-badge" />
-</p>
+      </pre>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 16px; border: 2px solid #00FF88; box-shadow: 0 0 30px rgba(0,255,136,0.3);" />
+    </td>
+  </tr>
+</table>
 
 <!--
   ═══════════════════════════════════════════════════
-  💼 EXPERIENCE & EDUCATION
+  🛠️ TECH STACK — Neon Badges
   ═══════════════════════════════════════════════════
 -->
-<h2 align="center">💼 Experience & 🎓 Education</h2>
+<h2 align="center">
+  <span style="color:#00D4FF;">⚡</span> Tech Stack <span style="color:#00D4FF;">⚡</span>
+</h2>
 
-<table align="center" width="100%">
+<h3 align="center" style="color:#FF6B35;">💻 Languages & Core</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0a0a0a" />
+</p>
+
+<h3 align="center" style="color:#00D4FF;">🎨 Frontend & Design</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=0a0a0a" />
+</p>
+
+<h3 align="center" style="color:#7B2FBE;">⚙️ Backend & Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0a0a" />
+</p>
+
+<h3 align="center" style="color:#FF006E;">☁️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=0a0a0a" />
+</p>
+
+<h3 align="center" style="color:#FF6B35;">🧠 Soft Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF006E?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Teamwork-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Communication-00FF88?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Time%20Management-FF6B35?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Creativity-7B2FBE?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Adaptability-00FF88?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Leadership-FF006E?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-00D4FF?style=for-the-badge&labelColor=0a0a0a" />
+</p>
+
+<!--
+  ═══════════════════════════════════════════════════
+  💼 EXPERIENCE & EDUCATION — Neon Cards
+  ═══════════════════════════════════════════════════
+-->
+<h2 align="center">
+  <span style="color:#FF6B35;">💼</span> Experience & <span style="color:#00D4FF;">🎓</span> Education
+</h2>
+
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Professional Experience</h3>
-      <ul>
-        <li><strong>Full Stack Web Developer Intern</strong><br>Asseminate Solution Pvt Ltd<br><em>Nov 2025 – May 2026</em>
-          <ul>
+    <td width="50%" style="background: #0a0a0a; border: 1px solid #00FF88; border-radius: 16px; padding: 20px; box-shadow: 0 0 20px rgba(0,255,136,0.1);">
+      <h3 align="center" style="color:#00FF88;">💼 Professional Experience</h3>
+      <ul style="color: #e0e0e0; line-height: 1.8;">
+        <li><strong style="color:#00D4FF;">Full Stack Web Developer Intern</strong><br>Asseminate Solution Pvt Ltd<br><em style="color:#FF6B35;">Nov 2025 – May 2026</em>
+          <ul style="color: #b0b0b0; margin-top: 6px;">
             <li>Worked on 12+ real-world projects (e-commerce, CMS, tourism)</li>
             <li>Built responsive apps with React, PHP, Node.js, MySQL</li>
             <li>Developed admin dashboards, authentication, database features</li>
@@ -123,15 +133,15 @@
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Education</h3>
-      <ul>
-        <li><strong>BSc (Hons) Computer Science & Software Engineering</strong><br>SLIIT City University (University of Bedfordshire, UK)<br><em>2023 – Present</em></li>
-        <li><strong>Foundation in Information Technology (FCIT)</strong><br>SLIIT City University<br><em>2022 – 2023</em></li>
-        <li><strong>Sri Lanka Computer Driving Licence (SLCDF)</strong><br><em>2018 – 2019</em></li>
+    <td width="50%" style="background: #0a0a0a; border: 1px solid #00D4FF; border-radius: 16px; padding: 20px; box-shadow: 0 0 20px rgba(0,212,255,0.1);">
+      <h3 align="center" style="color:#00D4FF;">🎓 Education</h3>
+      <ul style="color: #e0e0e0; line-height: 1.8;">
+        <li><strong style="color:#00FF88;">BSc (Hons) Computer Science & Software Engineering</strong><br>SLIIT City University (University of Bedfordshire, UK)<br><em style="color:#FF6B35;">2023 – Present</em></li>
+        <li><strong style="color:#00FF88;">Foundation in Information Technology (FCIT)</strong><br>SLIIT City University<br><em style="color:#FF6B35;">2022 – 2023</em></li>
+        <li><strong style="color:#00FF88;">Sri Lanka Computer Driving Licence (SLCDF)</strong><br><em style="color:#FF6B35;">2018 – 2019</em></li>
       </ul>
-      <h4>🏅 Achievements</h4>
-      <ul>
+      <h4 style="color:#7B2FBE;">🏅 Achievements</h4>
+      <ul style="color: #e0e0e0; line-height: 1.8;">
         <li>Batch Representative – Foundation & 1st Year</li>
         <li>Lead – University Projects</li>
         <li>Member – Badminton Team, Karate Team, Track & Field</li>
@@ -142,29 +152,35 @@
 
 <!--
   ═══════════════════════════════════════════════════
-  📊 GITHUB STATS — Using your username Sbasnayaka
+  📊 GITHUB STATS — Neon Theme
   ═══════════════════════════════════════════════════
 -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">
+  <span style="color:#00FF88;">📊</span> GitHub Analytics
+</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbasnayaka&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbasnayaka&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sbasnayaka&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00FF88&icon_color=00D4FF&text_color=e0e0e0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbasnayaka&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00D4FF&text_color=e0e0e0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sbasnayaka&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sbasnayaka&theme=radical&hide_border=true&background=0a0a0a&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=00D4FF&sideLabels=00D4FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbasnayaka&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbasnayaka&theme=react-dark&bg_color=0a0a0a&hide_border=true&area=true&color=00FF88&line=00D4FF&point=FF6B35&area_color=7B2FBE" />
 </p>
 
 <!--
   ═══════════════════════════════════════════════════
-  🐍 SNAKE ANIMATION — Contribution grid
+  🐍 SNAKE ANIMATION — Fixed with direct SVG
   ═══════════════════════════════════════════════════
 -->
+<h2 align="center">
+  <span style="color:#FF6B35;">🐍</span> Contribution Snake
+</h2>
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sbasnayaka/Sbasnayaka/output/github-contribution-grid-snake-dark.svg" />
@@ -173,13 +189,17 @@
 </picture>
 </p>
 
+<p align="center" style="color: #888;">
+  <em>Note: To make the snake work, you need to set up a GitHub Action that generates the SVG file. If it doesn't show, you can manually generate it using the <a href="https://github.com/Platane/snk" style="color:#00D4FF;">snk tool</a>.</em>
+</p>
+
 <!--
   ═══════════════════════════════════════════════════
   🏆 TROPHIES
   ═══════════════════════════════════════════════════
 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sbasnayaka&theme=radical&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sbasnayaka&theme=radical&no-frame=true&row=2&column=4&bg_color=0a0a0a" />
 </p>
 
 <!--
@@ -187,23 +207,30 @@
   🤝 SOCIAL & SUPPORT
   ═══════════════════════════════════════════════════
 -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">
+  <span style="color:#00D4FF;">🤝</span> Let's Connect
+</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/s-basnayaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sbasnayaka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sandunibasnayaka01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://skb-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/s-basnayaka"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://github.com/Sbasnayaka"><img src="https://img.shields.io/badge/GitHub-7B2FBE?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="mailto:sandunibasnayaka01@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
+  <a href="https://skb-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" /></a>
 </p>
 
 <!--
   ═══════════════════════════════════════════════════
-  🏁 FOOTER
+  🏁 FOOTER — Neon Glow
   ═══════════════════════════════════════════════════
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <h3 align="center">
-  ⭐️ From <a href="https://github.com/Sbasnayaka">Sanduni Basnayaka</a> with ❤️
+  <span style="color:#00FF88;">⭐️</span> From <a href="https://github.com/Sbasnayaka" style="color:#00D4FF; text-shadow: 0 0 10px rgba(0,212,255,0.5);">Sanduni Basnayaka</a> with <span style="color:#FF006E;">❤️</span>
 </h3>
-```
+
+<p align="center" style="color: #888; font-size: 0.8rem;">
+  <em>Built with 🚀 • Neon vibes • 2026</em>
+</p>
