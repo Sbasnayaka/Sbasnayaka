@@ -228,5 +228,5 @@
 </h3>
 
 <p align="center" style="color: #888; font-size: 0.8rem;">
-  <em>Built with 🚀 • Neon vibes • 2026</em>
+  <em>Built with AI🚀 • Neon vibes • 2026</em>
 </p>
