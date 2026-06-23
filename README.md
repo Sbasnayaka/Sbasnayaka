@@ -222,9 +222,9 @@
 </p>
 
 <h3 align="center">
-  <span style="color:#00FF88;">⭐️</span> From <a href="https://github.com/Sbasnayaka" style="color:#00D4FF; text-shadow: 0 0 10px rgba(0,212,255,0.5);">Sanduni Basnayaka</a> with <span style="color:#FF006E;">❤️</span>
+  <a href="https://github.com/Sbasnayaka" style="color:#00D4FF; text-shadow: 0 0 10px rgba(0,212,255,0.5);">Sanduni Basnayaka</a> 
 </h3>
 
 <p align="center" style="color: #888; font-size: 0.8rem;">
-  <em>Built with AI🚀 • Neon vibes • 2026</em>
+  <em>• SKB • 2026 •</em>
 </p>
